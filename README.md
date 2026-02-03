@@ -4,8 +4,6 @@ Senior Frontend Developer building and scaling high-traffic, production-grade we
 
 Currently working on a **large-scale eCommerce platform for Bershka**, where performance, UX, and maintainability are non-negotiable and every decision has real business impact.
 
-Founder of **PR Manager**, a SaaS built from real developer pain to improve pull request workflows and team velocity.
-
 ---
 
 ## 🧠 What I do
