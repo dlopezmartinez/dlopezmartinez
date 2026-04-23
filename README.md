@@ -37,20 +37,6 @@ Currently working on a **large-scale eCommerce platform for Bershka**, where per
 
 ---
 
-## 🚀 Products
-
-### **PR Manager**
-A SaaS focused on making pull request workflows clearer, faster, and less painful for teams.
-
-🔗 https://www.prmanagerhub.com
-
-Built with a strong emphasis on:
-- Developer experience
-- Visibility and ownership
-- Reducing friction without adding process overhead
-
----
-
 ## 📌 Philosophy
 
 - Simple > Clever  
